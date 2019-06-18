@@ -62,10 +62,8 @@ section = ["HTML", "JSON"]
 [params]
 description = "Linkerd is a transparent proxy that adds service discovery, routing, failure handling, and visibility to modern software applications"
 images = [""]
-l5d2_edge_version = "L5D2_EDGE_VERSION"
-l5d2_release_version = "L5D2_STABLE_VERSION"
 latest_release_date = "2019-02-01"
-latest_release_version = "1.6.1"
+latest_release_version = "1.6.3"
 logo = "/images/identity/svg/linkerd_primary_color_white.svg"
 [permalinks]
 blog = "/:year/:month/:day/:slug/"
